@@ -1,0 +1,42 @@
+#nav{
+
+
+  list-style: none;
+  margin: 50px;
+  padding: 0;
+  text-align: center;
+}
+#nav li{
+  display: inline;
+}
+
+a{
+  text-align: center;
+  color: #FFFFFF;
+  background-color: #c061ed;
+  display: inline-block;
+  width: 10%;
+  margin-right: 2%;
+
+
+}
+a:visited{
+  color:#f7e8b4;
+}
+
+body{
+  background-image: url("img/logo1.jpg");
+  background-position: top -170% right 50%;
+  background-repeat: no-repeat;
+
+}
+.active {
+  background-color: green;
+}
+div{
+
+  list-style: none;
+  margin: 50px;
+  padding: 0;
+  text-align: center;
+}
